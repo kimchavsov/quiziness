@@ -1,7 +1,6 @@
 """
 This module is to get data from api and return the question list
 """
-
 import requests
 
 
