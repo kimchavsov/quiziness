@@ -12,7 +12,7 @@ pip install requests
 ```
 
 ### Usage
-How to use this program:
-    1. Download all files from the repostiory
-    2. Make sure you have requests library installed
+How to use this program:\
+    1. Download all files from the repostiory\
+    2. Make sure you have requests library installed\
     3. Run the program
